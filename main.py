@@ -1,1 +1,1 @@
-from turtle import *
+from modulos.estrella import estrella
